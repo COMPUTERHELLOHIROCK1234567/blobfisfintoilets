@@ -12,17 +12,24 @@ body {
 }
 
 h1 {
-  font-family: "Merriweather", serif;
-  font-size: 32px;} 
+  font-family: "merriweather", serif;
+  font-size: 32px;
+  font-style:italic;
+  font-weight: normal;}
 p{color:red;}
 h1{margin-top: 100px;
 margin-bottom: 300px;
 margin-right: 50px;
 margin-left: 75px;}
-body{background-color:aqua;}
-body{background-image: url( ”https://cdlnws.a.ssl.fastly.net/image/upload/c_scale,f_auto,h_1414,q_auto/v1496163525/Blog/donuts.jpg”);}
-body{background-position: center}
+body{background-color:white;}
+body{background-image: url;} 
+body{background-position: center;}
 body{background-repeat: repeat-x;}
 h1{text-align: center;}
 h2{text-align: left;}
-h3
+  h1{border-style: dashed;}
+  h1{border-width: 30thin;}
+  h1{border-color:orange,30,RGB;}
+
+table, th, td {border:1px solid black;}
+  
